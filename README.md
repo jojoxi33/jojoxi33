@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm Aljwharh Alshmmri 👋
 
-<!--
-**jojoxi33/jojoxi33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Graduate | Data Analyst | AI Engineer | Aspiring Data Engineer**
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about Data Engineering, Artificial Intelligence, and Software Development. I enjoy building data-driven applications, solving real-world problems, and continuously learning modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Skills
+
+**Programming Languages**
+- Python
+- PHP
+- JavaScript
+- SQL
+
+**Web Development**
+- HTML5
+- CSS3
+- React.js
+- Node.js
+
+**Databases**
+- MySQL
+- Database Design
+
+**AI & Data**
+- Machine Learning
+- Computer Vision
+- YOLOv8
+- Data Analysis
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🎓 Course Coordination Portal
+A full-stack graduation project developed to improve course coordination and academic collaboration.
+
+**Technologies**
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+
+🔗 Repository:
+https://github.com/jojoxi33/course-coordination-portal
+
+---
+
+### 🤖 AI Object Detection
+Developed an object detection model using YOLOv8 and Python for image recognition tasks.
+
+---
+
+## 🎯 Current Focus
+
+- Data Engineering
+- Artificial Intelligence
+- Backend Development
+- Cloud Technologies
+- Data Pipelines
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *(Add your LinkedIn profile here)*
+- Email: aljwhrhalbdllh9@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile.
