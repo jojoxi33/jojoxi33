@@ -73,7 +73,7 @@ Developed an object detection model using YOLOv8 and Python for image recognitio
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: *(http://www.linkedin.com/in/aljwharh-alshmmri-a110ba317)*
 - Email: aljwhrhalbdllh9@gmail.com
 
 ---
